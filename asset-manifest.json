@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/khushipatelReact/static/css/main.5f361e03.chunk.css",
-    "main.js": "/khushipatelReact/static/js/main.ab97258e.chunk.js",
-    "main.js.map": "/khushipatelReact/static/js/main.ab97258e.chunk.js.map",
+    "main.js": "/khushipatelReact/static/js/main.d4ea2748.chunk.js",
+    "main.js.map": "/khushipatelReact/static/js/main.d4ea2748.chunk.js.map",
     "runtime-main.js": "/khushipatelReact/static/js/runtime-main.f0a4d48b.js",
     "runtime-main.js.map": "/khushipatelReact/static/js/runtime-main.f0a4d48b.js.map",
-    "static/js/2.b072d574.chunk.js": "/khushipatelReact/static/js/2.b072d574.chunk.js",
-    "static/js/2.b072d574.chunk.js.map": "/khushipatelReact/static/js/2.b072d574.chunk.js.map",
+    "static/js/2.39d7edd8.chunk.js": "/khushipatelReact/static/js/2.39d7edd8.chunk.js",
+    "static/js/2.39d7edd8.chunk.js.map": "/khushipatelReact/static/js/2.39d7edd8.chunk.js.map",
     "index.html": "/khushipatelReact/index.html",
-    "precache-manifest.86ba70aab078d8f965bd6c3fba574c5e.js": "/khushipatelReact/precache-manifest.86ba70aab078d8f965bd6c3fba574c5e.js",
+    "precache-manifest.b8254ab94e6f68738e3813c0be4f64ab.js": "/khushipatelReact/precache-manifest.b8254ab94e6f68738e3813c0be4f64ab.js",
     "service-worker.js": "/khushipatelReact/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/khushipatelReact/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.b072d574.chunk.js.LICENSE.txt": "/khushipatelReact/static/js/2.b072d574.chunk.js.LICENSE.txt",
+    "static/js/2.39d7edd8.chunk.js.LICENSE.txt": "/khushipatelReact/static/js/2.39d7edd8.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/khushipatelReact/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f0a4d48b.js",
-    "static/js/2.b072d574.chunk.js",
+    "static/js/2.39d7edd8.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.ab97258e.chunk.js"
+    "static/js/main.d4ea2748.chunk.js"
   ]
 }
