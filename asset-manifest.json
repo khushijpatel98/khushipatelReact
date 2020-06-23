@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/khushipatelReact/static/css/main.5f361e03.chunk.css",
-    "main.js": "/khushipatelReact/static/js/main.d4ea2748.chunk.js",
-    "main.js.map": "/khushipatelReact/static/js/main.d4ea2748.chunk.js.map",
+    "main.css": "/khushipatelReact/static/css/main.05064b8d.chunk.css",
+    "main.js": "/khushipatelReact/static/js/main.63fc7214.chunk.js",
+    "main.js.map": "/khushipatelReact/static/js/main.63fc7214.chunk.js.map",
     "runtime-main.js": "/khushipatelReact/static/js/runtime-main.f0a4d48b.js",
     "runtime-main.js.map": "/khushipatelReact/static/js/runtime-main.f0a4d48b.js.map",
-    "static/js/2.39d7edd8.chunk.js": "/khushipatelReact/static/js/2.39d7edd8.chunk.js",
-    "static/js/2.39d7edd8.chunk.js.map": "/khushipatelReact/static/js/2.39d7edd8.chunk.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/khushipatelReact/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.1cb2b05d.chunk.js": "/khushipatelReact/static/js/2.1cb2b05d.chunk.js",
+    "static/js/2.1cb2b05d.chunk.js.map": "/khushipatelReact/static/js/2.1cb2b05d.chunk.js.map",
     "index.html": "/khushipatelReact/index.html",
-    "precache-manifest.b8254ab94e6f68738e3813c0be4f64ab.js": "/khushipatelReact/precache-manifest.b8254ab94e6f68738e3813c0be4f64ab.js",
+    "precache-manifest.5533a0c5d47ab4ab23482c080c241e4b.js": "/khushipatelReact/precache-manifest.5533a0c5d47ab4ab23482c080c241e4b.js",
     "service-worker.js": "/khushipatelReact/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/khushipatelReact/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.39d7edd8.chunk.js.LICENSE.txt": "/khushipatelReact/static/js/2.39d7edd8.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/khushipatelReact/static/media/logo.5d5d9eef.svg"
+    "static/css/2.af3c1da9.chunk.css.map": "/khushipatelReact/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.05064b8d.chunk.css.map": "/khushipatelReact/static/css/main.05064b8d.chunk.css.map",
+    "static/js/2.1cb2b05d.chunk.js.LICENSE.txt": "/khushipatelReact/static/js/2.1cb2b05d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f0a4d48b.js",
-    "static/js/2.39d7edd8.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.d4ea2748.chunk.js"
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.1cb2b05d.chunk.js",
+    "static/css/main.05064b8d.chunk.css",
+    "static/js/main.63fc7214.chunk.js"
   ]
 }
