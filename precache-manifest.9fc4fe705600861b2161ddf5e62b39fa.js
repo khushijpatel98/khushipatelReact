@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7020c988a569068d04e28dc752aadb1f",
+    "revision": "328712958771a1e9a445630d94597c29",
     "url": "/khushipatelReact/index.html"
   },
   {
-    "revision": "c0b7cd63e5be6b0d4dba",
+    "revision": "bf7054512dcadf924402",
     "url": "/khushipatelReact/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "3f649986eaaf32e51790",
+    "revision": "c5c920162972f2879a6a",
     "url": "/khushipatelReact/static/css/main.05064b8d.chunk.css"
   },
   {
-    "revision": "c0b7cd63e5be6b0d4dba",
-    "url": "/khushipatelReact/static/js/2.1cb2b05d.chunk.js"
+    "revision": "bf7054512dcadf924402",
+    "url": "/khushipatelReact/static/js/2.30a0efd7.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/khushipatelReact/static/js/2.1cb2b05d.chunk.js.LICENSE.txt"
+    "url": "/khushipatelReact/static/js/2.30a0efd7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3f649986eaaf32e51790",
-    "url": "/khushipatelReact/static/js/main.63fc7214.chunk.js"
+    "revision": "c5c920162972f2879a6a",
+    "url": "/khushipatelReact/static/js/main.9ecdbc67.chunk.js"
   },
   {
     "revision": "cd2a931629f9e80b1e78",

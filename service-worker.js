@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/khushipatelReact/precache-manifest.5533a0c5d47ab4ab23482c080c241e4b.js"
+  "/khushipatelReact/precache-manifest.9fc4fe705600861b2161ddf5e62b39fa.js"
 );
 
 self.addEventListener('message', (event) => {
