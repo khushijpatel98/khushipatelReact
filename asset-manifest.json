@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/khushipatelReact/static/css/main.34d37480.chunk.css",
-    "main.js": "/khushipatelReact/static/js/main.a742ff97.chunk.js",
-    "main.js.map": "/khushipatelReact/static/js/main.a742ff97.chunk.js.map",
+    "main.css": "/khushipatelReact/static/css/main.09f530a5.chunk.css",
+    "main.js": "/khushipatelReact/static/js/main.0a738003.chunk.js",
+    "main.js.map": "/khushipatelReact/static/js/main.0a738003.chunk.js.map",
     "runtime-main.js": "/khushipatelReact/static/js/runtime-main.f0a4d48b.js",
     "runtime-main.js.map": "/khushipatelReact/static/js/runtime-main.f0a4d48b.js.map",
     "static/css/2.af3c1da9.chunk.css": "/khushipatelReact/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.7a357586.chunk.js": "/khushipatelReact/static/js/2.7a357586.chunk.js",
-    "static/js/2.7a357586.chunk.js.map": "/khushipatelReact/static/js/2.7a357586.chunk.js.map",
+    "static/js/2.db9342f8.chunk.js": "/khushipatelReact/static/js/2.db9342f8.chunk.js",
+    "static/js/2.db9342f8.chunk.js.map": "/khushipatelReact/static/js/2.db9342f8.chunk.js.map",
     "index.html": "/khushipatelReact/index.html",
-    "precache-manifest.eb84fea10391522d5e94cf14bf7ba461.js": "/khushipatelReact/precache-manifest.eb84fea10391522d5e94cf14bf7ba461.js",
+    "precache-manifest.94750c5a4fb1ea180db6ae4f186a5df2.js": "/khushipatelReact/precache-manifest.94750c5a4fb1ea180db6ae4f186a5df2.js",
     "service-worker.js": "/khushipatelReact/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/khushipatelReact/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.34d37480.chunk.css.map": "/khushipatelReact/static/css/main.34d37480.chunk.css.map",
-    "static/js/2.7a357586.chunk.js.LICENSE.txt": "/khushipatelReact/static/js/2.7a357586.chunk.js.LICENSE.txt",
+    "static/css/main.09f530a5.chunk.css.map": "/khushipatelReact/static/css/main.09f530a5.chunk.css.map",
+    "static/js/2.db9342f8.chunk.js.LICENSE.txt": "/khushipatelReact/static/js/2.db9342f8.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/khushipatelReact/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f0a4d48b.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.7a357586.chunk.js",
-    "static/css/main.34d37480.chunk.css",
-    "static/js/main.a742ff97.chunk.js"
+    "static/js/2.db9342f8.chunk.js",
+    "static/css/main.09f530a5.chunk.css",
+    "static/js/main.0a738003.chunk.js"
   ]
 }
